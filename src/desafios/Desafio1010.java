@@ -8,11 +8,11 @@ public class Desafio1010 {
 
         Scanner scan = new Scanner(System.in);
 
-        int cod1 = scan.nextInt();
+      //  int cod1 = scan.nextInt();
         int qtd1 = scan.nextInt();
         double valor1 = scan.nextDouble();
 
-        int cod2 = scan.nextInt();
+      //  int cod2 = scan.nextInt();
         int qtd2 = scan.nextInt();
         double valor2 = scan.nextDouble();
 
